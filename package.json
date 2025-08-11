@@ -1,0 +1,39 @@
+{
+  "name": "alphaapp",
+  "version": "1.0.0",
+  "description": "an application of alpha hotel services manage",
+  "keywords": [
+    "alpha",
+    "alpha",
+    "beni",
+    "hotel",
+    "h",
+    "apha",
+    "alpha",
+    "hotel",
+    "beni",
+    "hotel",
+    "hotel",
+    "beni",
+    "beni"
+  ],
+  "homepage": "https://github.com/Dav3333333/alphaApp#readme",
+  "bugs": {
+    "url": "https://github.com/Dav3333333/alphaApp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dav3333333/alphaApp.git"
+  },
+  "license": "ISC",
+  "author": "davnet",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "dependencies": {
+    "firebase": "^12.1.0",
+    "parcel": "^2.15.4"
+  }
+}
