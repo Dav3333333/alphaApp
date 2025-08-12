@@ -28,9 +28,9 @@
   "license": "ISC",
   "author": "davnet",
   "type": "commonjs",
-  "main": "index.js",
   "scripts": {
-    "test": "start"
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html --public-url ./"
   },
   "dependencies": {
     "firebase": "^12.1.0",
